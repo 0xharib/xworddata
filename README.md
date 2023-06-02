@@ -4,5 +4,6 @@ The data contained herein is available only for research and academic use and is
 
 ### Format
 Each csv file contains many triples of the form
-|-|-|-|
+
 |Clue|Answer|Explanation|
+|-|-|-|
