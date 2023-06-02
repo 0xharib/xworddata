@@ -14,8 +14,10 @@ clues0005.csv|FifteenSquared|18752|
 clues0006.csv|FifteenSquared|21658|
 clues0007.csv|FifteenSquared|23034|
 clues0008.csv|FifteenSquared|11162|
-clues0010.csv|FifteenSquared|16262|
 clues0011.csv|FifteenSquared|19691|
+clues0012.csv|FifteenSquared| 9638|
+clues0013.csv|FifteenSquared|15077|
+clues0014.csv|FifteenSquared|13099|
 
 ### Format
 Each csv file contains many triples of the form
